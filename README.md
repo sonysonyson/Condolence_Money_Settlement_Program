@@ -2,6 +2,8 @@
 
 경조사비(부조금) 명단을 정리하고 합계를 확인하는 로컬 전용 웹앱입니다. 서버/DB 없이, 사용자가 지정한 JSON 파일 하나에 데이터를 저장합니다.
 
+**배포**: https://sonysonyson.github.io/Condolence_Money_Settlement_Program/ (main 브랜치에 푸시하면 GitHub Actions가 자동으로 빌드/배포합니다. 워크플로: [.github/workflows/deploy-pages.yml](.github/workflows/deploy-pages.yml))
+
 ## 실행
 
 ```bash
